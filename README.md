@@ -1,1 +1,1 @@
-# SalesforceLightning
+# SalesforceLightning project on salesforce platform.
